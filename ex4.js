@@ -17,7 +17,7 @@ function count(x,y) {
         countNum++;
         
     }, 1000);
-    
+    return;
 }
 
 let numberOne = Number(prompt());
